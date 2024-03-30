@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_liste_inscrits" value="name:ID_inscrit;datatype:int,name:Nom;datatype:string,name:Premon;datatype:string,name:Email;datatype:string,name:Formation;datatype:string,name:Niveau;datatype:string" />
+</info>
